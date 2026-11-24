@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2026-11-24",
+        "datetime": "2026-11-24 08:16:12",
+        "customer": "jerin",
+        "table": 3,
+        "subtotal": 880.0,
+        "discount_rate": 0,
+        "discount": 0.0,
+        "gst": 158.4,
+        "final_amount": 1038.4,
+        "bill_file": "bills/bill_table3_20261124_081612_580354.txt"
+    },
+    {
+        "date": "2026-11-24",
+        "datetime": "2026-11-24 08:17:46",
+        "customer": "jerinthomas",
+        "table": 1,
+        "subtotal": 420.0,
+        "discount_rate": 0,
+        "discount": 0.0,
+        "gst": 75.6,
+        "final_amount": 495.6,
+        "bill_file": "bills/bill_table1_20261124_081746_405752.txt"
+    },
+    {
+        "date": "2026-11-24",
+        "datetime": "2026-11-24 08:20:16",
+        "customer": "anu",
+        "table": 4,
+        "subtotal": 420.0,
+        "discount_rate": 0,
+        "discount": 0.0,
+        "gst": 75.6,
+        "final_amount": 495.6,
+        "bill_file": "bills/bill_table4_20261124_082016_193184.txt"
+    },
+    {
+        "date": "2026-11-24",
+        "datetime": "2026-11-24 09:19:26",
+        "customer": "jerin",
+        "table": 5,
+        "subtotal": 420.0,
+        "discount_rate": 0,
+        "discount": 0.0,
+        "gst": 75.6,
+        "final_amount": 495.6,
+        "bill_file": "bills/bill_table5_20261124_091926_780481.txt"
+    }
+]
